@@ -1,0 +1,13 @@
+server:
+  port: 8888
+
+spring:
+  application:
+    name: rabbitmq-provider
+  rabbitmq:
+    host: 192.168.237.129
+    port: 5672
+    username: guest
+    password: guest
+
+
